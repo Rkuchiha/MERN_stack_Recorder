@@ -1,0 +1,12 @@
+first install node module in both client and server using
+npm install in client
+and 
+yarn install in server
+
+after that run server and client by typing following commands
+
+for client
+npm start
+
+and for server
+yarn dev
